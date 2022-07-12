@@ -1,0 +1,2 @@
+# ProjectZ
+"DISCORD_BOT"
